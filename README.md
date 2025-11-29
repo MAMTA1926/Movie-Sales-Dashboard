@@ -95,5 +95,7 @@ Insight: Movies between *120–150 minutes* often perform well both in ratings a
 
 
 6. Dashboard Screenshots / Demo
-`
-![Movie Dashboard Screenshot](https://github.com/MAMTA1926/Movie-Sales-Dashboard/blob/main/Movie_sales_dashboard.png)
+`image1 <img width="1741" height="803" alt="Movie_sales_dashboard" src="https://github.com/user-attachments/assets/bb1cca56-c838-4e5e-8f8b-fc55178385ff" />
+image2 <img width="1739" height="804" alt="movie_sales_dashboard2" src="https://github.com/user-attachments/assets/f0e3433d-1a49-4098-9ead-4fea173f9a58" />
+image4 <img width="1734" height="800" alt="movie_sales_dashboard3" src="https://github.com/user-attachments/assets/7b6bdd3f-b49f-4f69-98e2-5df67a98526e" />
+image5 <img width="1735" height="800" alt="movie_sales_dashboard4" src="https://github.com/user-attachments/assets/dd6c7465-04d9-42af-8eff-3ae75512363a" />
